@@ -1,8 +1,8 @@
 # Movies-ETL
-##### Challenge 8 Assignment: Amazing Prime 
+##### Challenge 8 Assignment
 
 ### Software
-- ETL
+- PostgreSQL 11.1
 - pgAdmin 4.4
 
 ## Project Overview
