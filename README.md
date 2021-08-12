@@ -1,5 +1,5 @@
 # Movies-ETL
-##### Challenge 8 Assignment
+##### Module 8 Challenge
 
 ### Software
 - PostgreSQL 11.1
