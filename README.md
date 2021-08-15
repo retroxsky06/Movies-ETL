@@ -9,7 +9,7 @@
 ## Project Overview
 The purpose of this project is to create an automated pipeline that takes in new movie data, performs the appropriate transformations, and loads the data into existing tables.
 
-#### Deliverables of the Project
+### Deliverables of the Project
 - Deliverable 1: Write an ETL Function to Read Three Data Files
 - Deliverable 2: Extract and Transform the Wikipedia Data
 - Deliverable 3: Extract and Transform the Kaggle data
