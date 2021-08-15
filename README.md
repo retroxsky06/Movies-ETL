@@ -1,10 +1,13 @@
 # Movies-ETL
 ##### Module 8 Challenge
 
-### Software
+### Software & Resources
 - Python 3.8
 - PostgreSQL 11.1
 - pgAdmin 4.4
+
+Resources:
+  - Movie data derives from Wikipedia Movie, IMDB, and Kaggle
 
 ## Project Overview
 The purpose of this project is to create an automated pipeline that takes in new movie data, performs the appropriate transformations, and loads the data into existing tables.
