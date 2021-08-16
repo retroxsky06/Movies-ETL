@@ -1,10 +1,10 @@
 # Movies-ETL
 ##### Module 8 Challenge
-
+This module 
 ### Software & Resources
 - Python 3.8
 - PostgreSQL 11.1
-- pgAdmin 4.4
+- pgAdmin 5.4
 
 Resources:
   - Movie data derives from Wikipedia Movie, IMDB, and Kaggle
