@@ -17,4 +17,8 @@ The purpose of this project is to create an automated pipeline that takes in new
 ## Results
 The analysis was completed with the new ETL function and the data was successfully added to a PostgreSQL database.
 
-![fig]
+#### Number of Rows: Movies Database
+![fig](https://github.com/retroxsky06/Movies-ETL/blob/main/Resources/movies_query.png)
+
+#### Number of Rows: Ratings Database
+![fig2](
