@@ -15,4 +15,6 @@ The purpose of this project is to create an automated pipeline that takes in new
 - Deliverable 4: Create the Movie Database
 
 ## Results
-The analysis was completed with the new ETL function performing properly.  The data was successfull added to a PostgreSQL database, as images of the   and the data is successfuly added to a PostgreSQL database as seen in the images below. The final code can be viewed here.
+The analysis was completed with the new ETL function and the data was successfully added to a PostgreSQL database.
+
+![fig]
